@@ -1628,7 +1628,7 @@ ul.top-links li {
 		letter-spacing: 9px;
 		font-size: 0.9em;
 		margin-top: 15px;
-		background: rgba(0, 0, 0, 0.72);
+		/*background: rgba(0, 0, 0, 0.72);*/
 		margin: 2% auto;
 		width: 57%;
 	}
@@ -1844,7 +1844,7 @@ ul.top-links li {
 	}
 	.wthree_banner_grid {
 		text-align: center;
-		background: #000;
+		background: #7F7F7F;
 		margin: 0 1%;
 		float: left;
 		width: 48%;
