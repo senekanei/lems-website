@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Fira Sans', sans-serif;
 	background:#ffffff;
 	margin: 0;
 }
@@ -15,8 +15,8 @@ p,ul li,ol li{
 	font-size:14px;
 }
 h1,h2,h3,h4,h5,h6{
-    font-family: 'Prata', serif;
-	font-family: 'Noto Serif', serif;
+    font-family: 'Fira Sans', serif;
+	font-family: 'Fira Sans', serif;
 	margin:0;
 }
 ul,label{
@@ -606,7 +606,7 @@ h3.h-two {
     color: #fff;
 }
 p.sub.two{
-	color: #e53238;
+	color: #fff;
 }
 .services-right-grid {
     text-align: center;
@@ -679,7 +679,7 @@ i.fa.fa-anchor, i.fa.fa-comment, i.fa.fa-heartbeat,i.fa.fa-magnet,i.fa.fa-thumbs
 	-ms-transition: 0.5s all;	
 }
 .services-icon-info h5{
-        color: #e53238;
+    color: #ffffff;
     font-size: 1.4em;
     letter-spacing:1px;
     margin: 1em 0 0 0;

@@ -1815,6 +1815,9 @@
 .fa-subway:before {
   content: "\f239";
 }
+.fa-medal:before{
+  content: "\f5a2";
+}
 .fa-medium:before {
   content: "\f23a";
 }
