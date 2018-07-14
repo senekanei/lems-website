@@ -276,7 +276,7 @@ nav.navbar.navbar-default {
 }
 .wthree_banner_grid i{
     font-size: 2.5em;
-    color: #e53238;
+    color: #fff;
     float: left;
     width: 19%;
 }
@@ -570,14 +570,14 @@ select.form-control.two {
 /*-- //banner-bottom --*/
 .w3ls-heading h3{
 	text-align: center;
-    color: #212121;
+    color: #7F7F7F;
     margin: 0 0 .5em;
     font-size: 2.5em;
 }
 .w3ls-heading p.sub{
 	     position: relative;
     text-align: center;
-    color: #444;
+    color: #7F7F7F;
     line-height: 1.8em;
     padding-bottom: 1.5em;
     letter-spacing: 3px;
@@ -943,10 +943,11 @@ span.simply-word {
 	text-transform:uppercase;
 	font-size:1em;
 	color:#fff;
-	background: #e53238;
+	background: #7F7F7F;
     padding: .5em;
 	position:relative;
 	text-align: center;
+    border-radius: 4px;
 }
 .wthree_team_grid2{
 	text-align: center;
@@ -1200,9 +1201,9 @@ input.phone {
     font-size: .9em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #e53238;
+    background: #7F7F7F;
     transition: 0.5s all;
-    border: 1px solid #e53238;
+    border: 1px solid #7F7F7F;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -1234,11 +1235,10 @@ input.phone {
     background: #f12b24;
 }
 .ftr-grid h3 span{
-	
 }
 .ftr-grid p {
        font-size: 0.85em;
-    color: #545353;
+    color: #fff;
     line-height: 2em;
     margin-top: 5%;
     letter-spacing: 1px;
@@ -1307,7 +1307,7 @@ ul.top-links li {
     width:88%;
 }
 .right-w3-2 ul.text-w3 li a {
-    color: #545353;
+    color: #fff;
     font-size: 0.9em;
     margin: 13px 0px 0px;
     display: inline-block;
