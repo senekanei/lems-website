@@ -35,7 +35,7 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 }
 /*-- header --*/
 .wthree_agile_top_header{
-	    padding: 1em 3em;
+    padding: 1em 3em;
     border-bottom: 1px solid #e6e6e6;
     background: #ffffff;
 }
@@ -79,6 +79,7 @@ i.fa.fa-graduation-cap {
     text-decoration: none;
 	letter-spacing: 1px;
     text-transform: none;
+    border-radius: 4px;
 }
 .agileits_w3layouts_sign_in ul li a:hover,.agileits_w3layouts_sign_in ul li a.active{
 	background: #1c4ad9;
@@ -266,20 +267,21 @@ nav.navbar.navbar-default {
 }
 .wthree_banner_grid{
    text-align: center;
-    background: #000;
+    background: #666666;
     margin: 0 1%;
     float: left;
-    width: 23%;
+    width: 30%;
     padding: 2em 1em;
+    border-radius: 4px;
 }
 .wthree_banner_grid i{
-       font-size: 2.5em;
-       color: #e53238;
+    font-size: 2.5em;
+    color: #e53238;
     float: left;
     width: 19%;
 }
 .wthree_banner_grid h4{
-	    text-transform: capitalize;
+    text-transform: capitalize;
     font-size: 1.2em;
     color: #fff;
     float: right;
@@ -290,6 +292,7 @@ nav.navbar.navbar-default {
 }
 .agileits_more ul li{
 	display:inline-block;
+
 }
 .agileits_more ul li a.hvr-icon-hang{
 	padding:0.8em 2em 0.8em 2em;
@@ -309,6 +312,8 @@ nav.navbar.navbar-default {
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
+    border-radius: 4px;
+
 }
 a.w3ls_banner_more{
     background: #666666;
@@ -331,15 +336,17 @@ a.w3ls_banner_more:hover{
     text-align: center;
 }
 .signin-form h3,h3.agileinfo_sign  {
-       font-size: 1.5em;
+    font-size: 1.5em;
     color: #212121;
     font-weight: 700;
     margin: 1em 0 0.8em 0;
     text-transform: uppercase;
     letter-spacing: 1px;
+
 }
 h3.agileinfo_sign  {
 	text-align:center;
+
 }
 .signin-form h3 span {
     color: #67e1ff;
