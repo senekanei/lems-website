@@ -570,14 +570,14 @@ select.form-control.two {
 /*-- //banner-bottom --*/
 .w3ls-heading h3{
 	text-align: center;
-    color: #7F7F7F;
+    color: #4d4d4d;
     margin: 0 0 .5em;
     font-size: 2.5em;
 }
 .w3ls-heading p.sub{
 	     position: relative;
     text-align: center;
-    color: #7F7F7F;
+    color: #4d4d4d;
     line-height: 1.8em;
     padding-bottom: 1.5em;
     letter-spacing: 3px;
@@ -1135,13 +1135,13 @@ ul.social-icons li i.fa:hover {
     margin: 0 0 0 1em;
 }
 .contact-info-right h5{
-    color: #000000;
+    color: #4d4d4d;
     font-size: 1em;
     margin: 0 0 .5em 0;
     font-weight: 600;
 }
 .contact-info-right p{
-       color: #555;
+       color: #4d4d4d;
     line-height: 1.8em;
     margin: 1em 0 0 0;
     font-size: .9em;
@@ -1152,11 +1152,11 @@ ul.social-icons li i.fa:hover {
 }
 .contact-info-right ul li{
 	display:block;
-	  color: #555;
+	  color: #4d4d4d;
     font-size: .9em;
 }
 .contact-info-right ul li a{
-	  color: #555;
+	  color: #4d4d4d;
 	text-decoration:none;
 }
 .contact-info-right ul li a:hover{
@@ -1838,6 +1838,7 @@ ul.top-links li {
 	}
 	.navbar-nav {
 		margin: 0.9em 0;
+
 	}
 	.w3layouts_agileits_nav_section {
 		padding-top: 11px;
@@ -1993,10 +1994,10 @@ ul.top-links li {
 		background-color: #fff;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-		background-color: #000000;
+		background-color: #7F7F7F;
 	}
 	.navbar-default .navbar-toggle {
-		border-color: #000;
+		border-color: #7F7F7F;
 	}
 	.w3ls__agileinfo_search {
 		    float: left;
@@ -2026,7 +2027,7 @@ ul.top-links li {
     margin-top: 4px;
     margin-right: 0px;
     margin-bottom: 8px;
-    background: #000;
+    background: #7F7F7F;
     background-image: none;
     border: 1px solid white;
     border-radius: 0!important;
