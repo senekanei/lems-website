@@ -68,7 +68,7 @@ i.fa.fa-graduation-cap {
 }
 .agileits_w3layouts_sign_in ul li{
 	display: inline-block;
-    color: #212121;
+    color: #7F7F7F;
     margin-left: 0em;
 }
 .agileits_w3layouts_sign_in ul li a {
@@ -311,9 +311,9 @@ nav.navbar.navbar-default {
     transition-duration: 0.3s;
 }
 a.w3ls_banner_more{
-    background: #1c4ad9;
+    background: #666666;
 	color:#fff !important;
-	border:1px solid #1c4ad9 !important;
+	border:1px solid #666666 !important;
 }
 .agileits_more ul li a.hvr-icon-hang:hover {
 	background: #e53238;
@@ -321,9 +321,9 @@ a.w3ls_banner_more{
 	border:1px solid #e53238;
 }
 a.w3ls_banner_more:hover{
-	border:1px solid #fff !important;
+	border:1px solid #1c4ad9 !important;
 	color:#fff !important;
-	background:none !important;
+	background:#1c4ad9 !important;
 }
 /*-- registration --*/
 .signin-form {
