@@ -115,7 +115,7 @@ i.fa.fa-graduation-cap {
     margin: 0;
     padding: 2em;
     line-height: 1em;
-    text-transform: uppercase; 
+    text-transform: none;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #1c4ad9;
