@@ -92,6 +92,7 @@ i.fa.fa-graduation-cap {
 .navbar-default {
     background: none;
     border: none;
+
 }
 .navbar {
     margin-bottom: 0;
@@ -150,7 +151,7 @@ nav.navbar.navbar-default {
     color: #fff;
     text-decoration: none;
     background-color: #f62b2b;
-}
+} 
 /* Rectangle Out */
 .hvr-rectangle-out {
   display: inline-block;
@@ -268,9 +269,9 @@ nav.navbar.navbar-default {
 .wthree_banner_grid{
    text-align: center;
     background: #666666;
-    margin: 0 1%;
+    margin: 0 2%;
     float: left;
-    width: 30%;
+    width: 20%;
     padding: 2em 1em;
     border-radius: 4px;
 }
@@ -1068,18 +1069,18 @@ ul.social-icons li i.fa:hover {
     letter-spacing: 1px;
 }
 .news-agileits-left{
-	background:url("../images/ab.jpg")no-repeat 0px 0px;
+	/*background:url("../images/ab.jpg")no-repeat 0px 0px;*/
 	background-size:cover;
 	 margin-left: 130px;
     padding: 0;
 	    min-height: 395px;
 	position: relative;
 }
-.video2 {
+/*.video2 {
     margin-left: 0!important;
 	background: url(../images/ab1.jpg)no-repeat 0px 0px;
     background-size: cover;
-}
+}*/
 .button a {
        padding: 16px 19px;
     position: absolute;
@@ -1216,8 +1217,8 @@ input.phone {
 /*-- //contact --*/
 /*-- Footer --*/
 .footer {
-       padding: 9em 0 4em 0;
-    background: #000;
+    padding: 9em 0 4em 0;
+    background: #7F7F7F;
     position: relative;
     margin-top: 12em;
 }
@@ -1280,7 +1281,7 @@ ul.top-links li {
 }
 .right-w3l ul.top-links li a i.fa {
         color: #000;
-    background-color: #fff;
+    background-color: #eeeeee;
     width: 26px;
     height: 26px;
     font-size: 13px;
