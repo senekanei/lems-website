@@ -322,9 +322,9 @@ a.w3ls_banner_more{
 	border:1px solid #666666 !important;
 }
 .agileits_more ul li a.hvr-icon-hang:hover {
-	background: #e53238;
+	background: #12308C;
 	color:#fff;
-	border:1px solid #e53238;
+	border:1px solid #12308C;
 }
 a.w3ls_banner_more:hover{
 	border:1px solid #1c4ad9 !important;
@@ -535,28 +535,43 @@ select.form-control.two {
 }
 /*-- banner-bottom --*/
 .banner-bottom{
-	padding:5em 0;
+    padding:5em 0;
 }
 .w3l_banner_bottom_left p{
-	       margin: 2em 0 0;
+    margin: 2em 0 0;
     color: #efe4e4;
     line-height: 2.2em;
     letter-spacing: 1px;
 }
+/*responsive columns*/
+
+.col-container {
+    display: table; /* Make the container element behave like a table */
+    width: 100%; /* Set full-width to expand the whole page */
+}
+
+.col {
+    display: table-cell; /* Make elements inside the container behave like table cells */
+}
+
+
 .w3l_banner_bottom_left p span{
-	    display: block;
+        display: block;
     margin-top: 1em;
     color: #212121;
-    font-style: italic;
+    font-style: normal;
+    text-align: justify;
     color: #f5af02;
     font-weight: 400;
     font-size: 1.1em;
     letter-spacing: 1px;
 }
 .w3l_banner_bottom_left {
-       background: #0F2773;
+       background: #A1A1A1;
        padding: 3em 5em;
-       min-height: 400px;
+       margin: auto;
+       height: auto;
+       border-collapse: collapse;
 }
 .w3l_banner_bottom_right {
     padding: 0;
