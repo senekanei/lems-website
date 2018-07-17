@@ -1222,6 +1222,15 @@ input.phone {
     position: relative;
     margin-top: 12em;
 }
+
+.footer2 {
+    padding: 9em 0 4em 0;
+    background: #7F7F7F;
+    position: relative;
+    margin-top: 12em;
+    text-align: center;
+}
+
 .ftr-grid h3 {
       color: #fff;
     font-size: 1.2em;
