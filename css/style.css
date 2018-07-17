@@ -68,13 +68,13 @@ i.fa.fa-graduation-cap {
 }
 .agileits_w3layouts_sign_in ul li{
 	display: inline-block;
-    color: #7F7F7F;
+    color: #A1A1A1;
     margin-left: 0em;
 }
 .agileits_w3layouts_sign_in ul li a {
     display: inline-block;
     padding: .5em 2em;
-    background: #7F7F7F;
+    background: #A1A1A1;
     color: #fff;
     text-decoration: none;
 	letter-spacing: 1px;
@@ -109,7 +109,7 @@ i.fa.fa-graduation-cap {
     background: #1c4ad9;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #666666;
+    color: #7c7b7b;
     font-weight: 600;
 }
 .navbar-nav > li > a {
@@ -268,7 +268,7 @@ nav.navbar.navbar-default {
 }
 .wthree_banner_grid{
    text-align: center;
-    background: #666666;
+    background: #A1A1A1;
     margin: 0 2%;
     float: left;
     width: 20%;
@@ -317,9 +317,9 @@ nav.navbar.navbar-default {
 
 }
 a.w3ls_banner_more{
-    background: #666666;
+    background: #A1A1A1;
 	color:#fff !important;
-	border:1px solid #666666 !important;
+	border:1px solid #A1A1A1 !important;
 }
 .agileits_more ul li a.hvr-icon-hang:hover {
 	background: #12308C;
@@ -959,7 +959,7 @@ span.simply-word {
 	text-transform:uppercase;
 	font-size:1em;
 	color:#fff;
-	background: #7F7F7F;
+	background: #A1A1A1;
     padding: .5em;
 	position:relative;
 	text-align: center;
@@ -1233,14 +1233,14 @@ input.phone {
 /*-- Footer --*/
 .footer {
     padding: 9em 0 4em 0;
-    background: #7F7F7F;
+    background: #A1A1A1;
     position: relative;
     margin-top: 12em;
 }
 
 .footer2 {
     padding: 9em 0 4em 0;
-    background: #7F7F7F;
+    background: #A1A1A1; 
     position: relative;
     margin-top: 12em;
     text-align: center;
